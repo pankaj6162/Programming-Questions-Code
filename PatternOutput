@@ -1,0 +1,223 @@
+Enter number of rows:
+5
+missilePattern
+       *       
+      ***      
+     *****     
+     @   @     
+     @   @     
+     @   @     
+*****@   @*****
+ ***       *** 
+  *         *  
+pascalPattern
+              1   
+           1     1   
+        1     2     1   
+     1     3     3     1   
+  1     4     6     4     1   
+big8Pattern
+@                                
+@                                
+@                                
+@******                          
+@     ******                    @
+@          ******               @
+@               ******          @
+                     ******     @
+                          ******@
+                                @
+                                @
+                                @
+big7Pattern
+@                      
+@                      
+@                      
+@                      
+@                      
+@*****                 
+     *****             
+         *****         
+             *****     
+                 *****@
+                      @
+                      @
+                      @
+                      @
+                      @
+big6Pattern
+@ 
+* * 
+* *   
+* *     
+* *       
+big5Pattern
+  *       @       *   
+* * *   @ @ @   * * * 
+  *   @ @ @ @ @   *   
+        1 0 1         
+          0           
+big4Pattern
+    *             @             *     
+  * * *         @ @ @         * * *   
+* * * * *     @ @ @ @ @     * * * * * 
+  * * *     @ @ @ @ @ @ @     * * *   
+    *     @ @ @ @ @ @ @ @ @     *     
+big3Pattern
+* * * * *     @     * * * * * 
+*       *   @ @ @   *       * 
+*       * @ @ @ @ @ *       * 
+*       *   @ @ @   *       * 
+* * * * *     @     * * * * * 
+big2Pattern
+        *         @       @         * 
+      * * *       @       @       * * * 
+    * * * * *     @       @     * * * * * 
+  * * * * * * *   @       @   * * * * * * * 
+* * * * * * * * * @ @ @ @ @ * * * * * * * * * 
+bigPattern
+    * @ @ @       @ @ @ * 
+  * *     @       @     * * 
+* * *     @       @     * * * 
+  * *       * * *       * * 
+    *         *         * 
+numberDiamondPattern
+           1
+        2  3  4
+     5  6  7  8  9
+       10 11 12
+          13
+  number2Pattern
+              1
+           3  2
+        6  5  4
+    10  9  8  7
+ 15 14 13 12 11
+ numberPattern
+              1
+           2  3
+        4  5  6
+     7  8  9 10
+ 11 12 13 14 15
+	damru3Pattern
+*       * 
+* *   * * 
+* * * * * 
+* *   * * 
+*       * 
+horiPyramid2Pattern
+    * 
+  * * 
+* * * 
+  * * 
+    * 
+horiPyramidPattern
+* 
+* * 
+* * * 
+* * 
+* 
+diamondPattern
+    * 
+  * * * 
+* * * * * 
+  * * * 
+    * 
+	equiTriAlphaPattern
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+hollowTrianglePattern
+        * 
+      *   * 
+    *       * 
+  *           * 
+* * * * * * * * * 
+hollowEquiTrianglePattern
+    *
+   * *
+  *   *
+ *     *
+* * * * *
+indexPattern
+(1,1) (1,2) (1,3) (1,4) (1,5) 
+(2,1) (2,2) (2,3) (2,4) (2,5) 
+(3,1) (3,2) (3,3) (3,4) (3,5) 
+(4,1) (4,2) (4,3) (4,4) (4,5) 
+(5,1) (5,2) (5,3) (5,4) (5,5) 
+plusPattern
+    *     
+    *     
+* * * * * 
+    *     
+    *     
+rectanglePattern
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * 
+rect2Pattern
+* * * * * 
+* * * * * 
+* *   * * 
+* * * * * 
+* * * * * 
+rect3Pattern
+* * * * * 
+*   *   * 
+* * * * * 
+*   *   * 
+* * * * * 
+rect4Pattern
+* * * * * 
+* *   * * 
+*   *   * 
+* *   * * 
+* * * * * 
+swastikPattern
+*   * * * 
+*   *     
+* * * * * 
+    *   * 
+* * *   * 
+rightAngleTrianglePattern
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+rightAngleTriangle2Pattern
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * * 
+equiTriPattern
+* 
+* * 
+* * * 
+* * 
+* 
+equiTri2Pattern
+    * 
+  * * 
+* * * 
+  * * 
+    * 
+      
+	damruPattern
+* * * * * 
+  * * *   
+    *     
+  * * *   
+* * * * * 
+equiTri3Pattern
+        A   
+      A   B   
+    A   B   C   
+  A   B   C   D   
+A   B   C   D   E   
+
